@@ -1,6 +1,6 @@
 {
-  "name": "mui-rte",
-  "version": "2.0.1",
+  "name": "mui-rich-text-editor",
+  "version": "0.0.1",
   "description": "Material-UI Rich Text Editor and Viewer",
   "keywords": [
     "material-ui",
@@ -13,19 +13,19 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/niuware/mui-rte.git"
+    "url": "https://github.com/Mbeaulne/mui-rte.git"
   },
   "bugs": {
-    "url": "https://github.com/niuware/mui-rte/issues"
+    "url": "https://github.com/Mbeaulne/mui-rte/issues"
   },
-  "homepage": "https://github.com/niuware/mui-rte#readme",
+  "homepage": "https://github.com/Mbeaulne/mui-rte#readme",
   "main": "index.js",
   "scripts": {
     "serve": "cross-env webpack-dev-server --mode development",
     "build": "tsc",
     "watch": "tsc --watch"
   },
-  "author": "Erik Lopez",
+  "author": "Matt Beaulne",
   "license": "MIT",
   "devDependencies": {
     "@emotion/react": "^11.4.1",
